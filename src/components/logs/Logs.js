@@ -8,6 +8,7 @@ import { getLogs } from '../../action/logActions';
 const Logs = ({ log: { logs, loading }, getLogs }) => {
   useEffect(() => {
     getLogs();
+    // eslint-disable-next-line
   }, []);
 
   if (loading || logs === null) {
