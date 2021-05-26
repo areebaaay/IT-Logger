@@ -46,24 +46,9 @@
       "lastName": "Wilson"
     },
     {
-      "firstName": "Areeba",
-      "lastName": "Akhtar",
+      "firstName": "john",
+      "lastName": "Doe",
       "id": 4
-    },
-    {
-      "firstName": "Ghulam",
-      "lastName": "Mustufa",
-      "id": 5
-    },
-    {
-      "firstName": "Sumbul",
-      "lastName": "Naseer",
-      "id": 6
-    },
-    {
-      "firstName": "Jill",
-      "lastName": "Smith",
-      "id": 7
     }
   ]
 }
