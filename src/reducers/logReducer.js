@@ -1,4 +1,3 @@
-import { act } from '@testing-library/react';
 import {
   GET_LOGS,
   SET_LOADING,
